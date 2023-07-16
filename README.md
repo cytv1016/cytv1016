@@ -1,6 +1,6 @@
 About Me:
 
-I am a data analytics professional with over four years of experience in leveraging data to drive business insights. With a Bachelor of Business degree and a concentration in Information Systems & Technology from Brock University, I have developed a strong foundation in analyzing and interpreting data to support decision-making processes.
+Data analytics professional with over four years of experience. A Bachelor of Business degree with a concentration in Information Systems & Technology from Brock University. Achieved a certification in the Data Analytics Career Track at Springboard. Passionate about using Excel, Tableau, and data visualization to complete statistical analysis and share a data story. Dedicated to using data to support business outcomes and drive growth.
 
 Education:
 
